@@ -1,0 +1,27 @@
+.card-img-top{
+    height: 300px;
+    width: auto;
+    margin: 40px ;
+}
+/* .aa{
+    margin: 40px ;
+} */
+.navbar{
+    color: white;
+        height:70px;
+}
+a#logo{
+    position:relative;
+    z-index:100;
+
+ }		
+ #body div.banner{
+    background:url("../images/dog1.jpg");
+    background-position:center;
+    background-repeat:no-repeat;
+    height:606px;
+ }
+ .cc{
+     margin: 5px;
+ }
+ 

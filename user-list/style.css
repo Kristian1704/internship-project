@@ -1,0 +1,15 @@
+.red_border {
+    border-style: solid !important;
+    border-color: red !important;
+}
+
+.content {
+    max-width: 1000px;
+    margin: auto;
+
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 60px;
+}

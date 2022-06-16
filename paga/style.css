@@ -1,0 +1,32 @@
+/*        Stilimi i tabeles*/
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#customers th, td {
+    border-bottom: 1px solid #04AA6D;
+    border-collapse: collapse;
+    color:black;
+}
+
+/*#customers tr {*/
+/*    background-color: #ddd;*/
+
+/*}*/
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: lightseagreen;
+    color: black;
+}
+
+.hide_row {
+    display: none;
+}
+.bottomBorder {
+    border-bottom: 12px ;
+}

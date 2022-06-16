@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee28e5bc-1668-4668-9093-6f80c25cda70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Projekti.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckIn/checkinback.php" beforeDir="false" afterPath="$PROJECT_DIR$/CheckIn/checkinback.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckIn/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/CheckIn/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckIn/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/CheckIn/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Login/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Produktet/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Produktet/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Produktet/produktetBack.php" beforeDir="false" afterPath="$PROJECT_DIR$/Produktet/produktetBack.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Produktet/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Produktet/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Produktet/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Produktet/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1646393581image (4).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paga/back.php" beforeDir="false" afterPath="$PROJECT_DIR$/paga/back.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paga/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paga/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/paga/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paga/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/paga/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paga/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/paga/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/backend.php" beforeDir="false" afterPath="$PROJECT_DIR$/profile/backend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/profile/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/profile/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-list/ajax.php" beforeDir="false" afterPath="$PROJECT_DIR$/user-list/ajax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-list/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/user-list/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-list/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/user-list/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-list/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/user-list/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-list/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/user-list/scripts.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="736217fb-9d39-4394-8704-c8540834d4d9" />
+        <option name="url" value="https://github.com/Martin3357/userLogin.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="293lv86helM9PTUVqcbcQBTQyBA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/xampp/htdocs/Internship_Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee28e5bc-1668-4668-9093-6f80c25cda70" name="Changes" comment="" />
+      <created>1652349878136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652349878136</updated>
+      <workItem from="1652349879698" duration="60126000" />
+      <workItem from="1653307702522" duration="32206000" />
+      <workItem from="1653982034532" duration="11981000" />
+      <workItem from="1654079149475" duration="342000" />
+      <workItem from="1654157449136" duration="25179000" />
+      <workItem from="1654503325146" duration="50116000" />
+      <workItem from="1655371512810" duration="78000" />
+      <workItem from="1655371624536" duration="26000" />
+      <workItem from="1655371671987" duration="22000" />
+      <workItem from="1655371696714" duration="359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
